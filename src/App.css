@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: repeating-conic-gradient(#040348 17%, #000000 65%);
+}
+.header header{
+      background-image: linear-gradient(45deg, black, transparent) !important;
+}

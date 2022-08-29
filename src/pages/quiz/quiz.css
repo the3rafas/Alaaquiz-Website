@@ -1,0 +1,16 @@
+.d-flex {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 580px;
+  /* height: 140vh; */
+}
+.d-flex p {
+  color: white;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}

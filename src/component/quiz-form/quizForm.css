@@ -1,0 +1,24 @@
+.quizItem {
+  width: 33%;
+  padding: 2rem 4rem;
+  box-shadow: inset 0px 0px 20px 20px #e8f4ff;
+  background-color: #a9daeb;
+  border-radius: 4rem;
+  margin: 2rem auto;
+  box-sizing: content-box;
+}
+.quizItem h1,
+.quizItem input {
+  margin: 0.7rem 0 0 0;
+}
+.quizItem input[type="submit"] {
+  padding: 0.4rem;
+}
+
+form {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
